@@ -1,0 +1,304 @@
+{
+    "leagues": [
+        {
+            "idLeague": "4328",
+            "strLeague": "English Premier League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Premier League, EPL"
+        },
+        {
+            "idLeague": "4329",
+            "strLeague": "English League Championship",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Championship"
+        },
+        {
+            "idLeague": "4330",
+            "strLeague": "Scottish Premier League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Scottish Premiership, SPFL"
+        },
+        {
+            "idLeague": "4331",
+            "strLeague": "German Bundesliga",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Bundesliga, Fu\u00dfball-Bundesliga"
+        },
+        {
+            "idLeague": "4332",
+            "strLeague": "Italian Serie A",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Serie A"
+        },
+        {
+            "idLeague": "4334",
+            "strLeague": "French Ligue 1",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Ligue 1 Conforama"
+        },
+        {
+            "idLeague": "4335",
+            "strLeague": "Spanish La Liga",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "LaLiga Santander, La Liga"
+        },
+        {
+            "idLeague": "4336",
+            "strLeague": "Greek Superleague Greece",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4337",
+            "strLeague": "Dutch Eredivisie",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Eredivisie"
+        },
+        {
+            "idLeague": "4338",
+            "strLeague": "Belgian Pro League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Jupiler Pro League"
+        },
+        {
+            "idLeague": "4339",
+            "strLeague": "Turkish Super Lig",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Super Lig"
+        },
+        {
+            "idLeague": "4340",
+            "strLeague": "Danish Superliga",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4344",
+            "strLeague": "Portuguese Primeira Liga",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Liga NOS"
+        },
+        {
+            "idLeague": "4346",
+            "strLeague": "American Major League Soccer",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "MLS"
+        },
+        {
+            "idLeague": "4347",
+            "strLeague": "Swedish Allsvenskan",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Fotbollsallsvenskan"
+        },
+        {
+            "idLeague": "4350",
+            "strLeague": "Mexican Primera League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Liga MX"
+        },
+        {
+            "idLeague": "4351",
+            "strLeague": "Brazilian Serie A",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4354",
+            "strLeague": "Ukrainian Premier League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4355",
+            "strLeague": "Russian Football Premier League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443"
+        },
+        {
+            "idLeague": "4356",
+            "strLeague": "Australian A-League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "A-League"
+        },
+        {
+            "idLeague": "4358",
+            "strLeague": "Norwegian Eliteserien",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Eliteserien"
+        },
+        {
+            "idLeague": "4359",
+            "strLeague": "Chinese Super League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4367",
+            "strLeague": "_No League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4370",
+            "strLeague": "Formula 1",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "F1, Formula One, Formula1, Formula 1, Formula-1"
+        },
+        {
+            "idLeague": "4371",
+            "strLeague": "Formula E",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "Formula-E"
+        },
+        {
+            "idLeague": "4372",
+            "strLeague": "BTCC",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "British Touring Car Championship"
+        },
+        {
+            "idLeague": "4373",
+            "strLeague": "IndyCar Series",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4380",
+            "strLeague": "NHL",
+            "strSport": "Ice Hockey",
+            "strLeagueAlternate": "National Hockey League"
+        },
+        {
+            "idLeague": "4381",
+            "strLeague": "UK Elite Ice Hockey League",
+            "strSport": "Ice Hockey",
+            "strLeagueAlternate": "British Elite League"
+        },
+        {
+            "idLeague": "4387",
+            "strLeague": "NBA",
+            "strSport": "Basketball",
+            "strLeagueAlternate": "National Basketball Association"
+        },
+        {
+            "idLeague": "4388",
+            "strLeague": "NBA G League",
+            "strSport": "Basketball",
+            "strLeagueAlternate": "NBA D League"
+        },
+        {
+            "idLeague": "4391",
+            "strLeague": "NFL",
+            "strSport": "American Football",
+            "strLeagueAlternate": "NFL"
+        },
+        {
+            "idLeague": "4393",
+            "strLeague": "NASCAR Cup Series",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "NASCAR Sprint Cup Series, NCS"
+        },
+        {
+            "idLeague": "4394",
+            "strLeague": "Italian Serie B",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Serie B"
+        },
+        {
+            "idLeague": "4395",
+            "strLeague": "Scottish Championship",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4396",
+            "strLeague": "English League 1",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "League One, Sky Bet League One"
+        },
+        {
+            "idLeague": "4397",
+            "strLeague": "English League 2",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "League Two, Sky Bet League Two"
+        },
+        {
+            "idLeague": "4398",
+            "strLeague": "Italian Serie C Girone C",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Serie C"
+        },
+        {
+            "idLeague": "4399",
+            "strLeague": "German 2. Bundesliga",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "2. Bundesliga"
+        },
+        {
+            "idLeague": "4400",
+            "strLeague": "Spanish La Liga 2",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Segunda Divisi\u00f3n, LaLiga SmartBank, LaLiga 123"
+        },
+        {
+            "idLeague": "4401",
+            "strLeague": "French Ligue 2",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Domino\u2019s Ligue 2"
+        },
+        {
+            "idLeague": "4403",
+            "strLeague": "Swedish Superettan",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Superettan"
+        },
+        {
+            "idLeague": "4404",
+            "strLeague": "Brazilian Serie B",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4405",
+            "strLeague": "CFL",
+            "strSport": "American Football",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4406",
+            "strLeague": "Argentinian Primera Division",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Liga Profesional de F\u00fatbol"
+        },
+        {
+            "idLeague": "4407",
+            "strLeague": "MotoGP",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4408",
+            "strLeague": "Spanish Liga ACB",
+            "strSport": "Basketball",
+            "strLeagueAlternate": "Liga Endesa"
+        },
+        {
+            "idLeague": "4409",
+            "strLeague": "WRC",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "World Rally Championship"
+        },
+        {
+            "idLeague": "4410",
+            "strLeague": "British GT Championship",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4411",
+            "strLeague": "WTCC",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "FIA World Touring Car Championship"
+        }
+    ]
+}

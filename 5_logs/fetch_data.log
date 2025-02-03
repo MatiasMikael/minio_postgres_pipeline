@@ -1,0 +1,2 @@
+2025-01-30 18:12:16,945 - INFO - Sports data fetched and saved locally: C:\Users\Matias\Desktop\minio_postgres_pipeline\2_data\sports_data.json
+2025-01-30 18:12:17,005 - INFO - File 'sports_data.json' uploaded to MinIO successfully.
